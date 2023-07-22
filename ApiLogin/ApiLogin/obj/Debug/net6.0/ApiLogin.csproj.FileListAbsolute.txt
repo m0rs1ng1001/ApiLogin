@@ -1,0 +1,7 @@
+C:\Users\adsi\Desktop\Test-Santi\ApiLogin\ApiLogin\ApiLogin\obj\Debug\net6.0\ApiLogin.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\Test-Santi\ApiLogin\ApiLogin\ApiLogin\obj\Debug\net6.0\ApiLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adsi\Desktop\Test-Santi\ApiLogin\ApiLogin\ApiLogin\obj\Debug\net6.0\ApiLogin.AssemblyInfoInputs.cache
+C:\Users\adsi\Desktop\Test-Santi\ApiLogin\ApiLogin\ApiLogin\obj\Debug\net6.0\ApiLogin.AssemblyInfo.cs
+C:\Users\adsi\Desktop\Test-Santi\ApiLogin\ApiLogin\ApiLogin\obj\Debug\net6.0\ApiLogin.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\Test-Santi\ApiLogin\ApiLogin\ApiLogin\obj\Debug\net6.0\ApiLogin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adsi\Desktop\Test-Santi\ApiLogin\ApiLogin\ApiLogin\obj\Debug\net6.0\ApiLogin.MvcApplicationPartsAssemblyInfo.cache
